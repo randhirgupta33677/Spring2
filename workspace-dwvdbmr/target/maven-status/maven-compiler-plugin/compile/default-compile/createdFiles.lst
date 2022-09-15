@@ -1,0 +1,5 @@
+com/example/gadgets/GadgetsApplication.class
+com/example/gadgets/controller/GadgetsController.class
+com/example/gadgets/repository/GadgetsRepository.class
+com/example/gadgets/service/GadgetsService.class
+com/example/gadgets/entity/Gadgets.class
